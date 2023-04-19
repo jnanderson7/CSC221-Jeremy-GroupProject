@@ -1,4 +1,4 @@
-# CSC221-Jeremy-GroupProject
+# CSC221-Jnanderson7-GroupProject
 Group Project for CSC 221 2021SP
 
 __Owner:__ Jeremy Anderson (jnanderson7@my.waketech.edu)
